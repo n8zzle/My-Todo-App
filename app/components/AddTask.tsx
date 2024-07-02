@@ -6,7 +6,7 @@ type Props = {};
 const AddTask = (props: Props) => {
   return (
     <div>
-      <button className="btn btn-primary w-full">
+      <button className="btn btn-primary w-full font-bold">
         Add new task <FaPlus />
       </button>
     </div>
