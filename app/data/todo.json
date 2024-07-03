@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "buy milk with some orange"
+      "id": 1,
+      "text": "First Task"
     },
     {
-      "id": "2",
-      "text": "Need to go for a walk"
+      "id": 2,
+      "text": "Second Task"
+    },
+    {
+      "id": 3,
+      "text": "Third Task"
     }
   ]
 }
