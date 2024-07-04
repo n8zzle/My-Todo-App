@@ -6,3 +6,8 @@ Tech Stack:
 2. TailwindCSS
 3. DaisyUI
 4. ReactIcons
+
+## To start project
+
+1. run 'npm run dev'
+2. run 'npm run json-server'
