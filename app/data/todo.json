@@ -1,16 +1,8 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "First Task"
-    },
-    {
-      "id": 2,
-      "text": "Second Task"
-    },
-    {
-      "id": 3,
-      "text": "Third Task"
+      "id": "66986125-7f2b-4ded-9f11-cdeaa9dee06d",
+      "text": "Test task"
     }
   ]
 }
